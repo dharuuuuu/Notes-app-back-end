@@ -2,3 +2,5 @@ node_modules
 personal access token.txt
 notes-api-webserver_new.pem
 Dharu_credentials.csv
+.env
+.prod.env
